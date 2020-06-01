@@ -1,6 +1,6 @@
 # 常见的ubuntu中的ld与libc收集
 
-用于做Pwn题时不同的环境：
+用于做Pwn题时不同的libc环境，可以在任意版本ubuntu下使用不同版本libc运行题目：
 
 ```python
 from pwn import *
